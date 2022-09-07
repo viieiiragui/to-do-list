@@ -1,0 +1,44 @@
+.task {
+  width: 100%;
+  padding: 1rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+
+  color: var(--gray-100);
+  background: var(--gray-500);
+  border: 1px solid var(--gray-400);
+  border-radius: 5px;
+}
+
+.task > p {
+  flex: 1;
+}
+
+.task button {
+  background: transparent;
+  border: unset;
+  cursor: pointer;
+  color: var(--gray-300);
+}
+
+.done {
+  color: var(--gray-300);
+  text-decoration: line-through;
+}
+
+.checkedWrapper {
+  position: relative;
+  display: flex;
+}
+
+.checkedWrapper > div {
+  position: absolute;
+  inset: 4px;
+  background: #fff;
+  border-radius: 50%;
+}
+
+.checkedWrapper > svg {
+  z-index: 1;
+}
