@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/assets/rocket.svg" alt="Rocket Logo" />
+  <img src="src/assets/front-cover.png" alt="Capa" />
 </p>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/viieiiragui/to-do-list">
