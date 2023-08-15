@@ -1,6 +1,3 @@
-// <p align="center">
-//  <img src="src/assets/front-cover.png" alt="Capa" />
-// </p>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/viieiiragui/to-do-list">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/viieiiragui/to-do-list">
@@ -8,8 +5,6 @@
   <img alt="GitHub license" src="https://img.shields.io/github/license/viieiiragui/to-do-list">
   </a>
 </p>
-
-#
 
 <p align="center">
   <a href="#-technologies">Technologies</a> •
