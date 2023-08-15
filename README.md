@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="src/assets/front-cover.png" alt="Capa" />
-</p>
+// <p align="center">
+//  <img src="src/assets/front-cover.png" alt="Capa" />
+// </p>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/viieiiragui/to-do-list">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/viieiiragui/to-do-list">
@@ -52,8 +52,6 @@ Why a task control application? Because the tasks on a list should be goals to e
 - Mark and unmark a task as complete
 - Remove a task from the list
 - Show task completion progress
-
-This is a project developed during the Ignite course 2022, presented by [@Rocketseat](https://github.com/Rocketseat).
 
 ## 📝 License
 
